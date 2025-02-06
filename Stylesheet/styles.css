@@ -5,6 +5,7 @@ body{
     justify-content: center;
     flex-direction: column;
     height: 100vh;
+    background: linear-gradient(to top,  #010d48 , #010d48);
 }
 
 div.container{
